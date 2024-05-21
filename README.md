@@ -1,1 +1,1 @@
-# linearb-go
+# go-linearb
